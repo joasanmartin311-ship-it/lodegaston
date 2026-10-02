@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://lodegaston.com/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://lodegaston.com/og-image.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/hamburguesa-de-garbanzos.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/hamburguesa-de-lentejas.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/hamburguesa-de-soja.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/hamburguesa-de-verduras.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/hamburguesa-de-zanahoria.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/milanesa-de-seitan-con-aceitunas.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/milanesa-de-seitan-con-albahaca.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/milanesa-de-seitan-con-cebolla.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/milanesa-de-seitan-con-morron.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/milanesa-de-seitan-con-verduras.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/milanesa-de-seitan-rellena-de-cerca.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/milanesa-de-seitan-rellena-otro-angulo.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/milanesa-de-seitan.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/milanesas-de-seitan-recien-hechas.webp</image:loc></image:image>
+    <image:image><image:loc>https://lodegaston.com/img/milanesas-vegetarianas-lo-de-gaston.webp</image:loc></image:image>
+  </url>
+</urlset>
