@@ -1854,7 +1854,8 @@
 
         var name = document.createElement('div');
         name.className = 'gallery-name';
-        name.textContent = img.alt.replace('Hamburguesa de ', '').replace('Milanesa de ', '');
+        var label = img.alt.replace(/^Hamburguesa (vegana )?de /, '').replace('Milanesa de ', '');
+        name.textContent = label.charAt(0).toUpperCase() + label.slice(1);
 
         card.appendChild(clone);
         card.appendChild(name);
